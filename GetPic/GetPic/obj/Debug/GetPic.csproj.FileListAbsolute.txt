@@ -1,0 +1,11 @@
+C:\Users\HELLO\Desktop\GetPic\GetPic\bin\Debug\GetPic.exe.config
+C:\Users\HELLO\Desktop\GetPic\GetPic\bin\Debug\GetPic.exe
+C:\Users\HELLO\Desktop\GetPic\GetPic\bin\Debug\GetPic.pdb
+C:\Users\HELLO\Desktop\GetPic\GetPic\obj\Debug\GetPic.csprojAssemblyReference.cache
+C:\Users\HELLO\Desktop\GetPic\GetPic\obj\Debug\GetPic.Form1.resources
+C:\Users\HELLO\Desktop\GetPic\GetPic\obj\Debug\GetPic.Properties.Resources.resources
+C:\Users\HELLO\Desktop\GetPic\GetPic\obj\Debug\GetPic.csproj.GenerateResource.cache
+C:\Users\HELLO\Desktop\GetPic\GetPic\obj\Debug\GetPic.csproj.CoreCompileInputs.cache
+C:\Users\HELLO\Desktop\GetPic\GetPic\obj\Debug\GetPic.exe
+C:\Users\HELLO\Desktop\GetPic\GetPic\obj\Debug\GetPic.pdb
+C:\Users\HELLO\Desktop\GetPic\GetPic\obj\Debug\GetPic.CreatePictureDatabase.resources
