@@ -36,6 +36,7 @@ namespace Dictionary
 		}
 		public string renderLinkWord(string word)
 		{
+			word = word.Replace(" ", "%20");
 			return "https://iapi.glosbe.com/en/vi/" + word;
 		}
 		public string getSource(string link)
