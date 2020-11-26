@@ -1,0 +1,14 @@
+C:\Users\HELLO\Desktop\FeatureFlashCard\FeatureFlashCard\bin\Debug\FeatureFlashCard.exe.config
+C:\Users\HELLO\Desktop\FeatureFlashCard\FeatureFlashCard\bin\Debug\FeatureFlashCard.exe
+C:\Users\HELLO\Desktop\FeatureFlashCard\FeatureFlashCard\bin\Debug\FeatureFlashCard.pdb
+C:\Users\HELLO\Desktop\FeatureFlashCard\FeatureFlashCard\obj\Debug\FeatureFlashCard.csprojAssemblyReference.cache
+C:\Users\HELLO\Desktop\FeatureFlashCard\FeatureFlashCard\obj\Debug\FeatureFlashCard.FlashCard.resources
+C:\Users\HELLO\Desktop\FeatureFlashCard\FeatureFlashCard\obj\Debug\FeatureFlashCard.Properties.Resources.resources
+C:\Users\HELLO\Desktop\FeatureFlashCard\FeatureFlashCard\obj\Debug\FeatureFlashCard.csproj.GenerateResource.cache
+C:\Users\HELLO\Desktop\FeatureFlashCard\FeatureFlashCard\obj\Debug\FeatureFlashCard.csproj.CoreCompileInputs.cache
+C:\Users\HELLO\Desktop\FeatureFlashCard\FeatureFlashCard\obj\Debug\FeatureFlashCard.exe
+C:\Users\HELLO\Desktop\FeatureFlashCard\FeatureFlashCard\obj\Debug\FeatureFlashCard.pdb
+C:\Users\HELLO\Desktop\FeatureFlashCard\FeatureFlashCard\obj\Debug\FeatureFlashCard.FCheckKnowLedge.resources
+C:\Users\HELLO\Desktop\FeatureFlashCard\FeatureFlashCard\obj\Debug\FeatureFlashCard.Learning.resources
+C:\Users\HELLO\Desktop\FeatureFlashCard\FeatureFlashCard\obj\Debug\FeatureFlashCard.Statistic.resources
+C:\Users\HELLO\Desktop\FeatureFlashCard\FeatureFlashCard\obj\Debug\FeatureFlashCard.YourFlashCard.resources
