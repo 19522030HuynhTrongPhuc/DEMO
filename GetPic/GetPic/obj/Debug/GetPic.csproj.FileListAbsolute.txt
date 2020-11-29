@@ -9,3 +9,14 @@ C:\Users\HELLO\Desktop\GetPic\GetPic\obj\Debug\GetPic.csproj.CoreCompileInputs.c
 C:\Users\HELLO\Desktop\GetPic\GetPic\obj\Debug\GetPic.exe
 C:\Users\HELLO\Desktop\GetPic\GetPic\obj\Debug\GetPic.pdb
 C:\Users\HELLO\Desktop\GetPic\GetPic\obj\Debug\GetPic.CreatePictureDatabase.resources
+C:\Users\Asus\Documents\GitHub\DEMO\GetPic\GetPic\bin\Debug\GetPic.exe.config
+C:\Users\Asus\Documents\GitHub\DEMO\GetPic\GetPic\bin\Debug\GetPic.exe
+C:\Users\Asus\Documents\GitHub\DEMO\GetPic\GetPic\bin\Debug\GetPic.pdb
+C:\Users\Asus\Documents\GitHub\DEMO\GetPic\GetPic\obj\Debug\GetPic.csprojAssemblyReference.cache
+C:\Users\Asus\Documents\GitHub\DEMO\GetPic\GetPic\obj\Debug\GetPic.CreatePictureDatabase.resources
+C:\Users\Asus\Documents\GitHub\DEMO\GetPic\GetPic\obj\Debug\GetPic.Form1.resources
+C:\Users\Asus\Documents\GitHub\DEMO\GetPic\GetPic\obj\Debug\GetPic.Properties.Resources.resources
+C:\Users\Asus\Documents\GitHub\DEMO\GetPic\GetPic\obj\Debug\GetPic.csproj.GenerateResource.cache
+C:\Users\Asus\Documents\GitHub\DEMO\GetPic\GetPic\obj\Debug\GetPic.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\GitHub\DEMO\GetPic\GetPic\obj\Debug\GetPic.exe
+C:\Users\Asus\Documents\GitHub\DEMO\GetPic\GetPic\obj\Debug\GetPic.pdb

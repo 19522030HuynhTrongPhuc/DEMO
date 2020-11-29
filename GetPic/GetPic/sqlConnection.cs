@@ -23,7 +23,7 @@ namespace FeatureFlashCard
 	};
 	class sqlConnection
 	{
-		String connString = @"Server=DESKTOP-HNQNQ1I\SQLEXPRESS;Database=ENGLISHVO;User Id=sa;Password=1;";
+		String connString = @"Server=LAPTOP-7LJ1B5F3\SQLEXPRESS;Database=ENGLISHVO;User Id=sa;Password=trongphuc123456;";
 		public List<string> getList()
 		{
 			List<string> res= new List<string>();
